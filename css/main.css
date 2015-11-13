@@ -176,6 +176,28 @@ body > section {
 	background-color: #333;
 	color: #fff;
 }
+.follow-us1 {
+	margin-top: 5px;
+	text-align: center;
+	color:#ffffff;
+}
+.follow-us1 a:hover {
+	color: #6CDA6C;
+}
+.top-icon {
+	padding-top: 5px;
+	font-size: 20px;
+	text-align: left;
+	width: 32px;
+	height: 32px;
+	color: #ffffff;
+	margin: -5px;
+}
+a.top-icon:hover, a.top-icon:active, a.top-icon:focus {
+	text-decoration: none;
+	color: #6CDA6C;
+	
+}
 /*************************
 *******Home Page******
 **************************/
@@ -746,9 +768,7 @@ textarea#message {
 #footer a {
 	color: #eee;
 }
-#footer a:hover {
-	color: #5CBDDE;
-}
+
 #footer ul {
 	list-style: none;
 	padding: 0;
